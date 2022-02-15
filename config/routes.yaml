@@ -1,0 +1,3 @@
+health:
+    path: /health
+    controller: App\Infrastructure\UI\Rest\Controller\HealthController::__invoke
